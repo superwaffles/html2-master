@@ -1,0 +1,18 @@
+ul.nav li{
+    display: inline-block;
+    padding-right: 10px;
+    background-color:  #ff471a;
+}
+
+.color-info
+ul {background-color: #99d6ff;
+  border-style: solid;
+  border-color: black;
+  border-width:3px;
+}
+.color-info2
+ul {background-color: #ffff99;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+}
